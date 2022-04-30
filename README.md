@@ -1,7 +1,7 @@
 # Lung-segmentation-from-chest-x-ray
  
 Lung-segmentation Dataset URL:
-Segmentation model weight URL:
+Segmentation model weight URL:https://mega.nz/file/spcSgIbD#NT-MNxwofn-RsXH_IUFh6WAYQ6g1oxBtBP9dRVIinSk
 
 
 
